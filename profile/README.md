@@ -10,9 +10,9 @@ The public site is [remakerdigital.com](https://www.remakerdigital.com).
 
 [membase](https://github.com/Remaker-Digital/membase) is public. It is project memory for coding-agent work. An append-only SQLite database versions specifications, tests, and decisions, and the membase command-line tool keeps that record.
 
-[agent-red-customer-engagement](https://github.com/Remaker-Digital/agent-red-customer-engagement) is private. It is AI-powered customer service for Shopify and a standalone storefront. It is in beta. The hosted service is paused while the next release is prepared.
+agent-red-customer-engagement is private. It is AI-powered customer service for Shopify and a standalone storefront. It is in beta. The hosted service is paused while the next release is prepared.
 
-[remakerdigital-web](https://github.com/Remaker-Digital/remakerdigital-web) is private. It is the source for the public site.
+remakerdigital-web is private. It is the source for the public site.
 
 ## Contact
 
