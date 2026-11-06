@@ -8,7 +8,7 @@ The public site is [remakerdigital.com](https://www.remakerdigital.com).
 
 [agntcy-on-azure](https://github.com/Remaker-Digital/agntcy-on-azure) is public. It is an example of a multi-agent customer service platform on Azure, built with the AGNTCY SDK, Docker, and Terraform.
 
-[membase](https://github.com/Remaker-Digital/membase) is public. It is project memory for coding-agent work. An append-only SQLite database versions specifications, tests, and decisions, and the membase command-line tool keeps that record.
+[membase](https://github.com/Remaker-Digital/membase) is public. Membase (SQLite) is a legacy research project: project memory for coding-agent work, where an append-only SQLite database versions specifications, tests, and decisions, and the membase command-line tool keeps that record.
 
 agent-red-customer-engagement is private. It is AI-powered customer service for Shopify and a standalone storefront. It is in beta. The hosted service is paused while the next release is prepared.
 
