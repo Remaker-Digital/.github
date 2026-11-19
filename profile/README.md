@@ -2,17 +2,15 @@
 
 We help organizations put AI to work in software delivery, office productivity, and specialized industrial systems. Work can start as hourly advice, continue as fractional technology leadership, or run as a defined delivery.
 
-The public site is [remakerdigital.com](https://www.remakerdigital.com).
+Check out Agent Red at [remakerdigital.com](https://www.remakerdigital.com).
 
 ## Projects
 
-[agntcy-on-azure](https://github.com/Remaker-Digital/agntcy-on-azure) is public. It is an example of a multi-agent customer service platform on Azure, built with the AGNTCY SDK, Docker, and Terraform.
+[AGNTCY on Azure](https://github.com/Remaker-Digital/agntcy-on-azure) is an example of a multi-agent customer service platform on Azure, built with the AGNTCY SDK, Docker, and Terraform.
 
-[membase](https://github.com/Remaker-Digital/membase) is public. Membase (SQLite) is a legacy research project: project memory for coding-agent work, where an append-only SQLite database versions specifications, tests, and decisions, and the membase command-line tool keeps that record.
+[MEMBASE](https://github.com/Remaker-Digital/membase) is a memory system for coding-agent work: an append-only SQLite database versions specifications, tests, and decisions, and the membase command-line tool keeps that record.
 
-agent-red-customer-engagement is private. It is AI-powered customer service for Shopify and a standalone storefront. It is in beta. The hosted service is paused while the next release is prepared.
-
-remakerdigital-web is private. It is the source for the public site.
+[Agent Red Customer Experience](https://github.com/Remaker-Digital/agent-red-customer-experience) is an AI customer service, support and personal shopper service designed for deployment on Azure. It is an example project and a source for our commercial work, so it does not include all of Agent Red's features.
 
 ## Contact
 
