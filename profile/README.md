@@ -10,7 +10,7 @@ Check out Agent Red at [remakerdigital.com](https://www.remakerdigital.com).
 
 [MEMBASE](https://github.com/Remaker-Digital/membase) is a memory system for coding-agent work: an append-only SQLite database versions specifications, tests, and decisions, and the membase command-line tool keeps that record.
 
-[Agent Red Customer Experience](https://github.com/Remaker-Digital/agent-red-customer-experience) is an AI customer service, support and personal shopper service designed for deployment on Azure. It is an example project and a source for our commercial work, so it does not include all of Agent Red's features.
+[Agent Red Customer Engagement](https://github.com/Remaker-Digital/agent-red-customer-experience) is an AI customer service, support and personal shopper service designed for deployment on Azure. It is an example project and a source for our commercial work, so it does not include all of Agent Red's features. Visit the Remaker Digital web site for an example of Agent Red in service.
 
 ## Contact
 
